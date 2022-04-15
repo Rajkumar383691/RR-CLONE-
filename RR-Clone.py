@@ -40,13 +40,31 @@ logo = """
 
 \033[1;96m
 
-_______    _____ ____  ____    _      ______    
-|_   __ \  |_   _|_  _||_  _|  / \    |_   _ `.  
-  | |__) |   | |   \ \  / /   / _ \     | | `. \ 
-  |  __ /    | |    \ \/ /   / ___ \    | |  | | 
- _| |  \ \_ _| |_   _|  |_ _/ /   \ \_ _| |_.' / 
-|____| |___|_____| |______|____| |____|______.'  
-                                   \033[1;91m version: 1.1
+                                                                                                                                                                                                    
+                                                                                                                                                                                                    
+RRRRRRRRRRRRRRRRR                  AAA                      JJJJJJJJJJJKKKKKKKKK    KKKKKKKUUUUUUUU     UUUUUUUUMMMMMMMM               MMMMMMMM               AAA               RRRRRRRRRRRRRRRRR   
+R::::::::::::::::R                A:::A                     J:::::::::JK:::::::K    K:::::KU::::::U     U::::::UM:::::::M             M:::::::M              A:::A              R::::::::::::::::R  
+R::::::RRRRRR:::::R              A:::::A                    J:::::::::JK:::::::K    K:::::KU::::::U     U::::::UM::::::::M           M::::::::M             A:::::A             R::::::RRRRRR:::::R 
+RR:::::R     R:::::R            A:::::::A                   JJ:::::::JJK:::::::K   K::::::KUU:::::U     U:::::UUM:::::::::M         M:::::::::M            A:::::::A            RR:::::R     R:::::R
+  R::::R     R:::::R           A:::::::::A                    J:::::J  KK::::::K  K:::::KKK U:::::U     U:::::U M::::::::::M       M::::::::::M           A:::::::::A             R::::R     R:::::R
+  R::::R     R:::::R          A:::::A:::::A                   J:::::J    K:::::K K:::::K    U:::::D     D:::::U M:::::::::::M     M:::::::::::M          A:::::A:::::A            R::::R     R:::::R
+  R::::RRRRRR:::::R          A:::::A A:::::A                  J:::::J    K::::::K:::::K     U:::::D     D:::::U M:::::::M::::M   M::::M:::::::M         A:::::A A:::::A           R::::RRRRRR:::::R 
+  R:::::::::::::RR          A:::::A   A:::::A                 J:::::j    K:::::::::::K      U:::::D     D:::::U M::::::M M::::M M::::M M::::::M        A:::::A   A:::::A          R:::::::::::::RR  
+  R::::RRRRRR:::::R        A:::::A     A:::::A                J:::::J    K:::::::::::K      U:::::D     D:::::U M::::::M  M::::M::::M  M::::::M       A:::::A     A:::::A         R::::RRRRRR:::::R 
+  R::::R     R:::::R      A:::::AAAAAAAAA:::::A   JJJJJJJ     J:::::J    K::::::K:::::K     U:::::D     D:::::U M::::::M   M:::::::M   M::::::M      A:::::AAAAAAAAA:::::A        R::::R     R:::::R
+  R::::R     R:::::R     A:::::::::::::::::::::A  J:::::J     J:::::J    K:::::K K:::::K    U:::::D     D:::::U M::::::M    M:::::M    M::::::M     A:::::::::::::::::::::A       R::::R     R:::::R
+  R::::R     R:::::R    A:::::AAAAAAAAAAAAA:::::A J::::::J   J::::::J  KK::::::K  K:::::KKK U::::::U   U::::::U M::::::M     MMMMM     M::::::M    A:::::AAAAAAAAAAAAA:::::A      R::::R     R:::::R
+RR:::::R     R:::::R   A:::::A             A:::::AJ:::::::JJJ:::::::J  K:::::::K   K::::::K U:::::::UUU:::::::U M::::::M               M::::::M   A:::::A             A:::::A   RR:::::R     R:::::R
+R::::::R     R:::::R  A:::::A               A:::::AJJ:::::::::::::JJ   K:::::::K    K:::::K  UU:::::::::::::UU  M::::::M               M::::::M  A:::::A               A:::::A  R::::::R     R:::::R
+R::::::R     R:::::R A:::::A                 A:::::A JJ:::::::::JJ     K:::::::K    K:::::K    UU:::::::::UU    M::::::M               M::::::M A:::::A                 A:::::A R::::::R     R:::::R
+RRRRRRRR     RRRRRRRAAAAAAA                   AAAAAAA  JJJJJJJJJ       KKKKKKKKK    KKKKKKK      UUUUUUUUU      MMMMMMMM               MMMMMMMMAAAAAAA                   AAAAAAARRRRRRRR     RRRRRRR
+                                                                                                                                                                                                    
+                                                                                                                                                                                                    
+                                                                                                                                                                                                    
+                                                                                                                                                                                                    
+                                                                                                                                                                                                    
+                                                                                                                                                                                                    
+                                                                                                                                                                                                    
 \n\033[0m----------------------------------
 \033[1;92mAuthor \033[1;96m: ABUBOCKOR RIYAD
 \033[1;92mFb \033[1;96m: ABUBOCKOR Riyad
